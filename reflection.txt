@@ -1,0 +1,20 @@
+
+<html>
+<head>
+<title>Dimaano E-Portfolio</title>
+<link rel="stylesheet" href="mystyle.css" type="text/css">
+</head>
+<body>
+<hr>
+<h1>Reflection</h1>
+<hr>
+<a href="index.html">Back to Navigation</a>
+<br>
+<hr>
+<p>I learned a lot this quarter. I discovered that websites can actually be interactive. I realized that a website doesn't have to be boring because we can use JavaScript to give it interactive elements. I believe that JavaScript is really essential in creating a website. </p>
+<hr>
+<a href="index.html">Back to Navigation</a>
+<hr>
+<p>Background image citation: <a href="https://ph.pinterest.com/pin/123215739805918703/" >Pinterest Source</a></p>
+</body>
+</html>

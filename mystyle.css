@@ -1,0 +1,38 @@
+a:link {
+color: white;
+}
+
+a:visited {
+color: pink;
+}
+
+a:hover {
+color: violet;
+}
+
+body {
+background-image: url('download.jpg');
+color: white;
+font-family: "Harlow Solid", sans-serif;
+font-size:150%;
+}
+
+h1 {
+font-size: 250%;
+font-family: "Vladimir Script", cursive;
+color: white;
+}
+
+h3 {
+font-size:150%;
+text-align: center;
+}
+
+hr {
+width: 100%;
+border: 1px solid white;
+}
+
+img{
+height: 300px;
+}
